@@ -1,0 +1,109 @@
+.navtarang
+{
+    
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.position
+{
+    position: fixed;
+}
+
+.padding
+{
+    
+    padding-left: 60%;
+    
+}
+
+.sidemenu
+{
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size: 100%;
+        
+}
+
+.bg-img
+{
+    background-image: url('../IMG/7.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    
+}
+
+#welcome
+{
+    padding-top: 2%;
+}
+
+.entertain
+{
+    padding-top: 27%;
+}
+
+#entertain:hover
+{
+    background: red;
+    color: black;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #0495c9;
+    border-color: #357ebd; /*set the color you want here*/
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.btn-white:hover
+{
+   
+    background-color:black;
+    border-color: white; /*set the color you want here*/
+    
+}
+
+
+
+@media only screen and (max-width: 653px) {
+    #navbar {
+        top: 82%;
+        position: absolute;
+        z-index: 1;
+        background-color: rgb(0, 0, 0);
+        width: 100%;
+        left: 0%;
+    }
+  }
+
+  @font-face
+{
+    font-family: 'precious.regular';
+    src: url('../Font/precious.regular.ttf');
+   
+}
+
+@font-face {
+    font-family: 'great-vibes.regular';
+    src: url('../Font/great-vibes.regular.ttf');
+}
+
+.navtarangfont
+{
+    font-family: 'precious.regular';
+    
+}
+
+.welcome
+{
+    font-family: 'great-vibes.regular';
+    
+}
+
+#welcome
+{
+    font-size: 160%;
+}

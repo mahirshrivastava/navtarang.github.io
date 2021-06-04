@@ -1,0 +1,98 @@
+.navtarang
+{
+    
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+.button
+{
+    position: absolute;
+    top: 100%;
+    left: 80%;
+}
+
+
+
+.loginpanel
+{
+    border: solid white;
+    border-radius: 15px;
+}
+.login
+{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 155%;
+}
+
+#login
+{
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+
+                                                                                                                                                                                     
+.size
+{
+    font-size: 70%;
+}
+/* #usr:hover, #pwd:hover
+{
+    border: black;
+
+} */
+
+.padding
+{
+    
+    padding-left: 60%;
+    
+}
+.sidemenu
+{
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size: 100%;
+    
+}
+
+@media only screen and (max-width: 653px) {
+    #navbar {
+        top: 82%;
+        position: absolute;
+        z-index: 1;
+        background-color: rgb(0, 0, 0);
+        width: 100%;
+        left: 0%;
+    }
+  }
+  
+  .bg-img
+  {
+      background-image: url('../IMG/7.jpg');
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      width: 100%;
+      
+  }
+
+  @media only screen and (max-width:280px) {
+      #panelwidth 
+      {
+          width: 90%;
+      }
+  }
+
+  @font-face
+{
+    font-family: 'precious.regular';
+    src: url('../Font/precious.regular.ttf')
+}
+
+.navtarangfont
+{
+    font-family: 'precious.regular';
+    
+}
