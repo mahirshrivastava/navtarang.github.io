@@ -70,7 +70,7 @@
   
   .bg-img
   {
-      background-image: url('IMG/7.jpg');
+      background-image: url('../IMG/7.jpg');
       background-attachment: fixed;
       background-repeat: no-repeat;
       background-size: 100% 100%;
