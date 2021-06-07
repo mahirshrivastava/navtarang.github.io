@@ -82,13 +82,13 @@
   @font-face
 {
     font-family: 'precious.regular';
-    src: url("../Font/precious.regular.ttf");
+    src: url('../Font/precious.regular.ttf');
    
 }
 
 @font-face {
     font-family: 'great-vibes.regular';
-    src: url("../Font/great-vibes.regular.ttf");
+    src: url('../Font/great-vibes.regular.ttf');
 }
 
 .navtarangfont
