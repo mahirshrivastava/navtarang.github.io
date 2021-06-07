@@ -89,7 +89,7 @@
   @font-face
 {
     font-family: 'precious.regular';
-    src: url('Font/precious.regular.ttf')
+    src: url('../Font/precious.regular.ttf')
 }
 
 .navtarangfont
